@@ -27,7 +27,7 @@
             <section class="esquemaProblema">
                 <h2>Esquema</h2>
                 <center>
-                    <img class="imgProblema" src="images/SolRadio.jpg" />
+                    <img class="imgProblema" src="./images/SolRadio.jpg" />
                 </center>
             </section>
             <section class="formulas">
